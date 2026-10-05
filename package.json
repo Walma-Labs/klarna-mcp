@@ -39,5 +39,13 @@
     "@types/node": "^20.14.0",
     "typescript": "^5.6.0",
     "vitest": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walma-Labs/klarna-mcp.git"
+  },
+  "homepage": "https://walma.ai/en/guides/mcp/klarna-mcp",
+  "bugs": {
+    "url": "https://github.com/Walma-Labs/klarna-mcp/issues"
   }
 }
